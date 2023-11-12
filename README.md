@@ -40,7 +40,7 @@ This project is licensed under the [**MIT License**](LICENSE), granting you the 
 
 ## Acknowledgments
 
-Special thanks to the open-source community, **Google Cloud**, and contributors who have played a role in the development and enhancement of this project.
+Special thanks to the open-source community, **Google Cloud**.
 
 ---
-**Note**: This readme provides a detailed guide for understanding, setting up, and utilizing the **LLM Chatbot Using PG Vector** repository. For additional information, refer to the project documentation and code comments.
+**Note**: This readme provides a detailed guide for understanding, setting up, and utilizing the **LLM Chatbot Using PG Vector** repository. For additional information, refer to the project code comments.
